@@ -18,4 +18,4 @@ I created my school's first ever CS club. Big thanks to the non-profit [[https:/
 * How to reach out to me:
 [[https://github.com/suryaanshah][Github]] \\
 [[https://app.slack.com/client/T0266FRGM/C01504DCLVD/user_profile/U02QN9S567M][Slack]] \\
-[[https://suryaanshah.dino.icu][My website]]
+[[https://suryaansh.dino.icu][My website]]
