@@ -2,8 +2,6 @@
 #+HTML_HEAD: <style>pre.src {background-color: #303030; color: #e5e5e5;}</style> <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css">
 #+EXPORT_FILE_NAME: index.html
 
-https://cloud-fhk8pfxg9-hack-club-bot.vercel.app/0webp.net-resizeimage.png
-
 * Introduction:
 I am a 15 year old computer lover. Some of my favourite tools include: \\
 + Emacs (This site is written with org-mode <3) \\
@@ -20,3 +18,4 @@ I created my school's first ever CS club. Big thanks to the non-profit [[https:/
 [[https://github.com/suryaanshah][Github]] \\
 [[https://app.slack.com/client/T0266FRGM/C01504DCLVD/user_profile/U02QN9S567M][Slack]] \\
 [[https://scrapbook.hackclub.com/SuryaanshChawla-U02QN9S567M][Scrapbook]] \\
+[[https://suryaansh.dino.icu][My website]]
