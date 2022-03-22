@@ -2,7 +2,7 @@
 #+HTML_HEAD: <style>pre.src {background-color: #303030; color: #e5e5e5;}</style> <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css">
 #+EXPORT_FILE_NAME: index.html
 
-https://cloud-fhk8pfxg9-hack-club-bot.vercel.app/0webp.net-resizeimage.png
+[https://cloud-fhk8pfxg9-hack-club-bot.vercel.app/0webp.net-resizeimage.png]
 
 * Introduction:
 I am a 15 year old computer lover. Some of my favourite tools include: \\
