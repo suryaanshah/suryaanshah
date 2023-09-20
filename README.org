@@ -3,7 +3,7 @@
 #+EXPORT_FILE_NAME: index.html
 
 * Introduction:
-I am a 16 year old computer lover. Some of my favourite tools include: \\
+I am a 17 year old computer lover. Some of my favourite tools include: \\
 + Emacs (This site is written with org-mode <3) \\
 + GNU/Linux - Ditch proprietary stuff right now! \\
 
